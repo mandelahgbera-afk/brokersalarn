@@ -1,0 +1,16 @@
+{
+  "name": "Brokerr",
+  "short_name": "Brokerr",
+  "description": "Advanced crypto copy-trading platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0f14",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='48' fill='%2310b981'/%3E%3Cpath d='M60 132V60l36 24-36 24zm36-24l36 24V60l-36 24z' fill='white'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
